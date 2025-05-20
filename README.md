@@ -84,7 +84,7 @@ Start the Flask application:
 python app.py
 ```
 
-The app will run locally at `http://127.0.0.1:5000`.
+The app will run locally.
 
 ---
 
