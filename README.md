@@ -89,7 +89,7 @@ The app will run locally.
 ---
 
 ## **How to Use**
-1. Open the web app in your browser by navigating to `http://127.0.0.1:5000`.
+1. Open the web app in your browser by navigating to your local host.
 2. Upload one or multiple images using the provided form.
 3. View the detection results displayed in a list format on the webpage.
 
